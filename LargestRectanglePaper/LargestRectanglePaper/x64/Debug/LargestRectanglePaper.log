@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(14,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(14,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(14,9): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(14,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(46,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(46,9): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\LargestRectanglePaper\main.cpp(46,9): message : 请考虑在格式字符串中使用“%I64d”
+  LargestRectanglePaper.vcxproj -> C:\Users\markw\source\repos\Algorithm\LargestRectanglePaper\x64\Debug\LargestRectanglePaper.exe
