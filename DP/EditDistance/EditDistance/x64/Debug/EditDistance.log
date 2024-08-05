@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\markw\source\repos\Algorithm\EditDistance\EditDistance\main.cpp(9,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\markw\source\repos\Algorithm\EditDistance\EditDistance\main.cpp(10,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  EditDistance.vcxproj -> C:\Users\markw\source\repos\Algorithm\EditDistance\x64\Debug\EditDistance.exe
